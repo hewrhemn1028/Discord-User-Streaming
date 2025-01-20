@@ -15,8 +15,8 @@ const users = [
       name: "twitch",
       type: "STREAMING",
       details: "Streaming Something",
-      largeText: "Your Large text", // Enter Your Large text
-      image: "Your Image id" // Enter Your Discord Clinet Image id
+      largeText: "AN DEV", // Enter Your Large text
+      image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoon.ly%2Fnft%2Fmystery-mafia&psig=AOvVaw3I68D5KBg-PzK6SQn2aSvA&ust=1737487091500000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCVxfmBhYsDFQAAAAAdAAAAABAO" // Enter Your Discord Clinet Image id
     }
   }
 ];
