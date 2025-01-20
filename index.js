@@ -12,9 +12,9 @@ const users = [
     clientId: process.env.clientId,
     token: process.env.abtin,
     status: {
-      name: "twitch",
+      name: "قوز دایک پارتی بم",
       type: "STREAMING",
-      details: "Streaming Something",
+      details: "https://www.twitch.tv/anohemn?sr=a",
       largeText: "AN DEV", // Enter Your Large text
       image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoon.ly%2Fnft%2Fmystery-mafia&psig=AOvVaw3I68D5KBg-PzK6SQn2aSvA&ust=1737487091500000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCVxfmBhYsDFQAAAAAdAAAAABAO" // Enter Your Discord Clinet Image id
     }
